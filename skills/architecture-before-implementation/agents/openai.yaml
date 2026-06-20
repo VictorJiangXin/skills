@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Before Implementation"
+  short_description: "Validate architecture, boundaries, and data flow before coding."
+  default_prompt: "Use architecture-before-implementation to evaluate the architecture, contracts, data flow, extensibility, failure modes, and risk before writing implementation code."

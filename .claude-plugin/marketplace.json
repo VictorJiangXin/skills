@@ -27,16 +27,23 @@
       "source": "./",
       "strict": false,
       "skills": [
+        "./skills/agent-handoff",
         "./skills/algorithmic-art",
+        "./skills/architecture-before-implementation",
         "./skills/brand-guidelines",
         "./skills/canvas-design",
         "./skills/doc-coauthoring",
+        "./skills/fact-first-development",
         "./skills/frontend-design",
+        "./skills/impact-risk-review",
         "./skills/internal-comms",
         "./skills/mcp-builder",
+        "./skills/proof-driven-engineering",
         "./skills/skill-creator",
         "./skills/slack-gif-creator",
+        "./skills/systemic-fix-debugging",
         "./skills/theme-factory",
+        "./skills/verification-closure",
         "./skills/web-artifacts-builder",
         "./skills/webapp-testing"
       ]

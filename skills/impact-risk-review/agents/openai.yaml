@@ -1,0 +1,4 @@
+interface:
+  display_name: "Impact Risk Review"
+  short_description: "Assess blast radius and production risk."
+  default_prompt: "Use impact-risk-review to assess a planned or completed change for correctness, compatibility, resource, performance, concurrency, dependency, and operational risks."

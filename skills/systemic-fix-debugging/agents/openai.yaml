@@ -1,0 +1,4 @@
+interface:
+  display_name: "Systemic Fix Debugging"
+  short_description: "Fix root causes, not symptoms."
+  default_prompt: "Use systemic-fix-debugging to triage failures, group symptoms, identify common root causes, and design a systemic fix with appropriate regression coverage."

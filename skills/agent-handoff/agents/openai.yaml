@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Handoff"
+  short_description: "Prepare complete agent handoffs."
+  default_prompt: "Use agent-handoff to prepare a concise but complete handoff packet with state, facts, changes, verification, risks, and next steps for another agent or future session."

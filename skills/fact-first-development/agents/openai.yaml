@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fact First Development"
+  short_description: "Build a verified fact ledger before non-trivial development."
+  default_prompt: "Use fact-first-development to establish the verified task facts, authority sources, current state, and unknowns before planning or changing code."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Proof-Driven Engineering"
+  short_description: "Turn complex work into provable, reusable systems"
+  default_prompt: "Use $proof-driven-engineering to approach this task with evidence chains, scope alignment, parity checks, and reusable decision rules."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verification Closure"
+  short_description: "Close work with matched evidence."
+  default_prompt: "Use verification-closure to define and execute the verification matrix required before declaring a development task complete."
